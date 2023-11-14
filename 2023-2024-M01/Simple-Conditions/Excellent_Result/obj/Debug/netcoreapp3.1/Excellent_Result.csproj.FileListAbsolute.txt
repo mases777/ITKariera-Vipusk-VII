@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\bin\Debug\netcoreapp3.1\Excellent_Result.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\bin\Debug\netcoreapp3.1\Excellent_Result.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\bin\Debug\netcoreapp3.1\Excellent_Result.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\bin\Debug\netcoreapp3.1\Excellent_Result.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\bin\Debug\netcoreapp3.1\Excellent_Result.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\bin\Debug\netcoreapp3.1\Excellent_Result.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Conditions\Excellent_Result\obj\Debug\netcoreapp3.1\Excellent_Result.genruntimeconfig.cache
