@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.genruntimeconfig.cache

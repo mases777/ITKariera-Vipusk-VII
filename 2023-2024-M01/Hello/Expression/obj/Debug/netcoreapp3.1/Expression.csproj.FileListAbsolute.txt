@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\bin\Debug\netcoreapp3.1\Expression.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\bin\Debug\netcoreapp3.1\Expression.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\bin\Debug\netcoreapp3.1\Expression.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\bin\Debug\netcoreapp3.1\Expression.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\Expression\obj\Debug\netcoreapp3.1\Expression.genruntimeconfig.cache

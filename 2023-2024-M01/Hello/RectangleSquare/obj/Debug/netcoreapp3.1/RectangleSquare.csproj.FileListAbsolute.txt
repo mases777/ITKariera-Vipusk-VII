@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\bin\Debug\netcoreapp3.1\RectangleSquare.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\bin\Debug\netcoreapp3.1\RectangleSquare.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\bin\Debug\netcoreapp3.1\RectangleSquare.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\bin\Debug\netcoreapp3.1\RectangleSquare.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\bin\Debug\netcoreapp3.1\RectangleSquare.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\bin\Debug\netcoreapp3.1\RectangleSquare.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Hello\RectangleSquare\obj\Debug\netcoreapp3.1\RectangleSquare.genruntimeconfig.cache
