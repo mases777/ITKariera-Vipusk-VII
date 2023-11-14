@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Complex-Conditions\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.genruntimeconfig.cache

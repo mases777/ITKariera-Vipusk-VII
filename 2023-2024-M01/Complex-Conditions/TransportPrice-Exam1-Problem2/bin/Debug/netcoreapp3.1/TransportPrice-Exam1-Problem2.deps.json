@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TransportPrice-Exam1-Problem2/1.0.0": {
+        "runtime": {
+          "TransportPrice-Exam1-Problem2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransportPrice-Exam1-Problem2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
