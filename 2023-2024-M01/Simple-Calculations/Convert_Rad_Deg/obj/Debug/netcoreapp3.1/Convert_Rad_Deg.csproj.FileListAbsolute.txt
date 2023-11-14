@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\netcoreapp3.1\Convert_Rad_Deg.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\netcoreapp3.1\Convert_Rad_Deg.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\netcoreapp3.1\Convert_Rad_Deg.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\netcoreapp3.1\Convert_Rad_Deg.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\netcoreapp3.1\Convert_Rad_Deg.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\netcoreapp3.1\Convert_Rad_Deg.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\netcoreapp3.1\Convert_Rad_Deg.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.genruntimeconfig.cache

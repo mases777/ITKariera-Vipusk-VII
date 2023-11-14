@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Convert_Rad_Deg/1.0.0": {
+        "runtime": {
+          "Convert_Rad_Deg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert_Rad_Deg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

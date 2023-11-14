@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\netcoreapp3.1\Convert_USD_BGN.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\netcoreapp3.1\Convert_USD_BGN.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\netcoreapp3.1\Convert_USD_BGN.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\netcoreapp3.1\Convert_USD_BGN.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\netcoreapp3.1\Convert_USD_BGN.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\netcoreapp3.1\Convert_USD_BGN.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\netcoreapp3.1\Convert_USD_BGN.genruntimeconfig.cache

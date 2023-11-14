@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\bin\Debug\netcoreapp3.1\Inches_To_Centimeters.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\bin\Debug\netcoreapp3.1\Inches_To_Centimeters.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\bin\Debug\netcoreapp3.1\Inches_To_Centimeters.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\bin\Debug\netcoreapp3.1\Inches_To_Centimeters.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\bin\Debug\netcoreapp3.1\Inches_To_Centimeters.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\bin\Debug\netcoreapp3.1\Inches_To_Centimeters.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Simple-Calculations\Inches_To_Centimeters\obj\Debug\netcoreapp3.1\Inches_To_Centimeters.genruntimeconfig.cache

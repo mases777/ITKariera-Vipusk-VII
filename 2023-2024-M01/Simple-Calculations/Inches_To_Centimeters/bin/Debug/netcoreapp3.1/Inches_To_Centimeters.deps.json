@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inches_To_Centimeters/1.0.0": {
+        "runtime": {
+          "Inches_To_Centimeters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inches_To_Centimeters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
