@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\bin\Debug\netcoreapp3.1\NumbersFromNto1.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\bin\Debug\netcoreapp3.1\NumbersFromNto1.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\bin\Debug\netcoreapp3.1\NumbersFromNto1.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\bin\Debug\netcoreapp3.1\NumbersFromNto1.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\bin\Debug\netcoreapp3.1\NumbersFromNto1.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\bin\Debug\netcoreapp3.1\NumbersFromNto1.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumbersFromNto1\obj\Debug\netcoreapp3.1\NumbersFromNto1.genruntimeconfig.cache
