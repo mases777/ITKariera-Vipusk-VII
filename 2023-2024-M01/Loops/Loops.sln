@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNumbers", "SumOfNumber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFromNto1", "NumbersFromNto1\NumbersFromNto1.csproj", "{1678B879-7272-4DFF-9105-4A1C630C6774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersPowerOf2", "NumbersPowerOf2\NumbersPowerOf2.csproj", "{DF3F8BBE-6FAD-47C1-A4D5-489F19C74069}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1678B879-7272-4DFF-9105-4A1C630C6774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1678B879-7272-4DFF-9105-4A1C630C6774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1678B879-7272-4DFF-9105-4A1C630C6774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3F8BBE-6FAD-47C1-A4D5-489F19C74069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3F8BBE-6FAD-47C1-A4D5-489F19C74069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3F8BBE-6FAD-47C1-A4D5-489F19C74069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3F8BBE-6FAD-47C1-A4D5-489F19C74069}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
