@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\bin\Debug\netcoreapp3.1\NumberInRange1_100.exe
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\bin\Debug\netcoreapp3.1\NumberInRange1_100.deps.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\bin\Debug\netcoreapp3.1\NumberInRange1_100.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\bin\Debug\netcoreapp3.1\NumberInRange1_100.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\bin\Debug\netcoreapp3.1\NumberInRange1_100.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\bin\Debug\netcoreapp3.1\NumberInRange1_100.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.dll
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.pdb
+F:\repos\ITKariera-Vipusk-VII\2023-2024-M01\Loops\NumberInRange1_100\obj\Debug\netcoreapp3.1\NumberInRange1_100.genruntimeconfig.cache
