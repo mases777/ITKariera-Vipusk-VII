@@ -22,6 +22,29 @@ namespace Zadacha05
                                 }
                     }
             Console.WriteLine($"\nCount of winner numbers: {count}");
+
+
+            //var n = int.Parse(Console.ReadLine());
+            //var count = 0;
+            //for (int a = 1; a <= 9; a++)
+            //    for (int b = 1; b <= 9; b++)
+            //        for (int c = 1; c <= 9; c++)
+            //        {
+            //            if (a + b + c == n)
+            //            {
+            //                for (int d = 1; d <= 9; d++)
+            //                {
+            //                    if (d % 2 == 0)
+            //                    {
+            //                        Console.Write($"{a}{b}{c}{d}1 ");
+            //                        count++;
+            //                    }
+            //                }
+            //            }
+            //        }
+            //Console.WriteLine();
+            //Console.WriteLine($"Count of winner numbers: {count}");
+
         }
     }
 }
