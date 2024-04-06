@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransportPrice-Exam1-Problem2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+684f12ddfae0f815d14a6956897669b5e2f94b21")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransportPrice-Exam1-Problem2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransportPrice-Exam1-Problem2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BF4DE-01DB-4146-B1F3-50115FD9E843}|Zadacha04\\Zadacha04.csproj|f:\\repos\\itkariera-vipusk-vii\\2023-2024-m02\\podgotovka\\zadacha04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43BF4DE-01DB-4146-B1F3-50115FD9E843}|Zadacha04\\Zadacha04.csproj|solutionrelative:zadacha04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A613A7-1369-478B-A406-8C8F9DC0724D}|Zadacha02\\Zadacha02.csproj|f:\\repos\\itkariera-vipusk-vii\\2023-2024-m02\\podgotovka\\zadacha02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A613A7-1369-478B-A406-8C8F9DC0724D}|Zadacha02\\Zadacha02.csproj|solutionrelative:zadacha02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB8296D-C38A-4CB3-962C-70E08DE4B2E4}|Zadacha01\\Zadacha01.csproj|f:\\repos\\itkariera-vipusk-vii\\2023-2024-m02\\podgotovka\\zadacha01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB8296D-C38A-4CB3-962C-70E08DE4B2E4}|Zadacha01\\Zadacha01.csproj|solutionrelative:zadacha01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E481AF-CE9A-448F-8052-2E0AE3B6D206}|Zadacha03\\Zadacha03.csproj|f:\\repos\\itkariera-vipusk-vii\\2023-2024-m02\\podgotovka\\zadacha03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E481AF-CE9A-448F-8052-2E0AE3B6D206}|Zadacha03\\Zadacha03.csproj|solutionrelative:zadacha03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha04\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha04\\Program.cs",
+              "ToolTip": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha04\\Program.cs",
+              "RelativeToolTip": "Zadacha04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:52:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha03\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha03\\Program.cs",
+              "ToolTip": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha03\\Program.cs",
+              "RelativeToolTip": "Zadacha03\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:40:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha02\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha02\\Program.cs",
+              "ToolTip": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha02\\Program.cs",
+              "RelativeToolTip": "Zadacha02\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T06:56:30.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha01\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha01\\Program.cs",
+              "ToolTip": "F:\\repos\\ITKariera-Vipusk-VII\\2023-2024-M02\\Podgotovka\\Zadacha01\\Program.cs",
+              "RelativeToolTip": "Zadacha01\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T06:55:52.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
